@@ -11,8 +11,8 @@ ________________________________________
 - Management needs visibility into bank exposure and project progress.
 ________________________________________
 📂 Dataset
-Source: [Dataset Source]
-Time Period: [Start Year] – [End Year]
+Source: []
+Time Period: [2021] – [2026]
 ________________________________________
 🧹 Data Preparation
 The dataset was prepared using:
@@ -70,7 +70,9 @@ ________________________________________
 •	Excel
 ________________________________________
 📁 Repository Structure
+
 Project/
+
 │
 
 ├── Dataset/
