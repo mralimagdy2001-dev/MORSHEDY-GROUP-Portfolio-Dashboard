@@ -19,26 +19,26 @@ ________________________________________
 ________________________________________
 🧹 Data Preparation
 
-The dataset was prepared using:
-•	Data cleaning
-•	Handling missing values
-•	Removing duplicates
-•	Data type transformation
-•	Creating calculated columns
-•	Creating relationships
-•	Data modeling
+- The dataset was prepared using:
+- Data cleaning
+- Handling missing values
+- Removing duplicates
+- Data type transformation
+- Creating calculated columns
+- Creating relationships
+- Data modeling
 ________________________________________
 🗂️ Data Model
 
 We create two fact tables because we have two business processes: the unit sold & the installment for the unit sold
 ### Example:
-•	Fact Sales
-•	Fact Installments
-•	Dim Bank
-•	Dim Customer
-•	Dim Date
-•	Dim Project
-•	Dim Unit
+- Fact Sales
+- Fact Installments
+- Dim Bank
+- Dim Customer
+- Dim Date
+- Dim Project
+- Dim Unit
 ________________________________________
 🔑 Key Insights
 
@@ -80,10 +80,10 @@ Bank - Wise
 ________________________________________
 🛠️ Tools & Technologies
 
-•	Power BI
-•	DAX
-•	Power Query
-•	Excel
+- Power BI
+- DAX
+- Power Query
+- Excel
 ________________________________________
 📁 Repository Structure
 
