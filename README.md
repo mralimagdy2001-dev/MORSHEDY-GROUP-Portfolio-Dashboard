@@ -1,7 +1,8 @@
 # 📊 MORSHEDY GROUP Sales & Collection Analytics
 
 📌 Project Overview
-The real estate company sells units through installment plans. However, the collection data is stored across multiple project worksheets, making it difficult to monitor the overall collection performance.
+The real estate company sells units through installment plans. 
+However, the collection data is stored across multiple project worksheets, making it difficult to monitor the overall collection performance.
 ________________________________________
 🎯 Business Problem
 - Data is distributed across 8 project worksheets.
@@ -11,8 +12,8 @@ ________________________________________
 - Management needs visibility into bank exposure and project progress.
 ________________________________________
 📂 Dataset
-[Source](https://github.com/mralimagdy2001-dev/MORSHEDY-GROUP-Portfolio-Dashboard/tree/main/Dataset)
-Time Period: 2021 – 2026
+- [Source](https://github.com/mralimagdy2001-dev/MORSHEDY-GROUP-Portfolio-Dashboard/tree/main/Dataset)
+- Time Period: 2021 – 2026
 ________________________________________
 🧹 Data Preparation
 The dataset was prepared using:
@@ -26,7 +27,7 @@ The dataset was prepared using:
 ________________________________________
 🗂️ Data Model
 We create two fact tables because we have two business processes: the unit sold & the installment for the unit sold
-Example:
+### Example:
 •	Fact Sales
 •	Fact Installments
 •	Dim Bank
