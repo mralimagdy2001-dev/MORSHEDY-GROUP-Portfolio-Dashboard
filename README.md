@@ -1,17 +1,14 @@
-📊 MORSHEDY GROUP Sales & Collection Analytics<img width="975" height="285" alt="image" src="https://github.com/user-attachments/assets/cfeefc6f-7f58-457a-ba33-af0164fe00a1" />
+# 📊 MORSHEDY GROUP Sales & Collection Analytics
 
 📌 Project Overview
-Briefly describe what the project is about and why it was created.
-This project analyzes [dataset/business area] to identify key trends, patterns, and business insights that can support better decision-making.
+The real estate company sells units through installment plans. However, the collection data is stored across multiple project worksheets, making it difficult to monitor the overall collection performance.
 ________________________________________
 🎯 Business Problem
-Describe the business problem that the analysis is trying to solve.
-Key Business Questions
-•	What is the overall performance?
-•	Which products/customers/categories perform best?
-•	What are the main trends over time?
-•	What factors are affecting business performance?
-•	What actions can the business take based on the findings?
+- Data is distributed across 8 project worksheets.
+- Installment information is stored in multiple columns and different business states.
+- Management needs to identify paid, due, and not-yet-due installments.
+- It is difficult to monitor collected and outstanding amounts in one place.
+- Management needs visibility into bank exposure and project progress.
 ________________________________________
 📂 Dataset
 Source: [Dataset Source]
