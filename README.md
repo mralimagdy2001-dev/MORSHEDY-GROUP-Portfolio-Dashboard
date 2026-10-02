@@ -70,7 +70,8 @@ Based on the analysis:
 ________________________________________
 🖼️ Dashboard Preview
 
-- Home Page
+- ![Home Page]
+  (https://github.com/mralimagdy2001-dev/MORSHEDY-GROUP-Portfolio-Dashboard/blob/main/Images/Morshedy%20-%20Home.png)
 - Global Summary
 - Collection by date summary
 - Project Overall
