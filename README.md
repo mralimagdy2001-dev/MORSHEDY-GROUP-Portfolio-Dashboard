@@ -70,13 +70,13 @@ Based on the analysis:
 ________________________________________
 🖼️ Dashboard Preview
 
-Home Page
-Global Summary
-Collection by date summary
-Project Overall
-Project Cash
-Project Bank
-Bank - Wise
+- Home Page
+- Global Summary
+- Collection by date summary
+- Project Overall
+- Project Cash
+- Project Bank
+- Bank - Wise
 ________________________________________
 🛠️ Tools & Technologies
 
