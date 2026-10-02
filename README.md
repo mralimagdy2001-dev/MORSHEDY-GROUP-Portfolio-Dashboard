@@ -5,6 +5,7 @@ The real estate company sells units through installment plans.
 However, the collection data is stored across multiple project worksheets, making it difficult to monitor the overall collection performance.
 ________________________________________
 🎯 Business Problem
+
 - Data is distributed across 8 project worksheets.
 - Installment information is stored in multiple columns and different business states.
 - Management needs to identify paid, due, and not-yet-due installments.
@@ -12,10 +13,12 @@ ________________________________________
 - Management needs visibility into bank exposure and project progress.
 ________________________________________
 📂 Dataset
+
 - [Source](https://github.com/mralimagdy2001-dev/MORSHEDY-GROUP-Portfolio-Dashboard/tree/main/Dataset)
 - Time Period: 2021 – 2026
 ________________________________________
 🧹 Data Preparation
+
 The dataset was prepared using:
 •	Data cleaning
 •	Handling missing values
@@ -26,6 +29,7 @@ The dataset was prepared using:
 •	Data modeling
 ________________________________________
 🗂️ Data Model
+
 We create two fact tables because we have two business processes: the unit sold & the installment for the unit sold
 ### Example:
 •	Fact Sales
@@ -37,6 +41,7 @@ We create two fact tables because we have two business processes: the unit sold 
 •	Dim Unit
 ________________________________________
 🔑 Key Insights
+
 ## Insight 1
 ### Strong Overall Collection Performance
 - Installment 7 shows a major collection gap. Out of approximately EGP 158.7M issued for this installment, only EGP 3.35M has been collected, leaving around EGP 155.4M outstanding.
@@ -57,12 +62,14 @@ ____________________________________________________
 - Their outstanding balances are approximately EGP 175.3M and EGP 110.9M, respectively.
 ________________________________________
 ## 💡Business Recommendations
+
 Based on the analysis:
 1.	Management should maintain the current collection follow-up process while giving special attention to the remaining EGP 791.0M outstanding balance.
 2.	Management should give these projects closer collection monitoring and review their outstanding installments regularly.
 3.	Management should increase follow-up for later installments, especially Installments 4 and 5, before unpaid balances become larger.
 ________________________________________
 🖼️ Dashboard Preview
+
 Home Page
 Global Summary
 Collection by date summary
@@ -72,6 +79,7 @@ Project Bank
 Bank - Wise
 ________________________________________
 🛠️ Tools & Technologies
+
 •	Power BI
 •	DAX
 •	Power Query
