@@ -70,8 +70,7 @@ Based on the analysis:
 ________________________________________
 🖼️ Dashboard Preview
 
-- ![Home Page]
-  (./Images/Morshedy%20-%20Home.png)
+![Home Page](./Images/Morshedy%20-%20Home.png)
 - Global Summary
 - Collection by date summary
 - Project Overall
