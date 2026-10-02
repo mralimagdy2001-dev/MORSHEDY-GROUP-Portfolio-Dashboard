@@ -72,12 +72,18 @@ ________________________________________
 
 - **Home Page**
 ![Home Page](./Images/Morshedy%20-%20Home.png)
-- Global Summary
-- Collection by date summary
-- Project Overall
-- Project Cash
-- Project Bank
+- **Global Summary**
+![Global Summary](./Images/Morshedy%20-%20Global%20Summary.png)
+- **Collection by date summary**
+![Collection by date summary](./Images/Morshedy%20-%20Collection%20by%20date.png)
+- **Project Overall**
+![Project Overall](./Images/Morshedy%20-%20Project%20Overall.png)
+- **Project Cash**
+![Project Cash](./Images/Morshedy%20-%20Project%20Cash.png)
+- **Project Bank**
+![Project Bank](./Images/Morshedy%20-%20Project%20Bank.png)
 - Bank - Wise
+![Bank - Wise](./Images/Morshedy%20-%20Bank%20Wise.png)
 ________________________________________
 🛠️ Tools & Technologies
 
