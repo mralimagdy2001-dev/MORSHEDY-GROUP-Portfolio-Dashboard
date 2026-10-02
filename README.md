@@ -73,7 +73,6 @@ ________________________________________
 Project/
 │
 ├── Dataset/
-├── SQL/
 ├── Power BI/
 ├── Images/
 ├── Documentation/
@@ -81,7 +80,7 @@ Project/
 ________________________________________
 👤 Author
 Ali Magdy
-🐙 GitHub [https://github.com/mralimagdy2001-dev] | 💼LinkedIn [https://www.linkedin.com/in/ali-magdy-mahmoud]
+🐙 GitHub: [https://github.com/mralimagdy2001-dev] | 💼LinkedIn: [https://www.linkedin.com/in/ali-magdy-mahmoud]
 
 
 
